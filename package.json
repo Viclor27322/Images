@@ -6,7 +6,6 @@
   "engines": {
     "node":"^18.14.2"
   },
-  "type":"module",
   "scripts": {
     "start": "nodemon index.js"
   },
